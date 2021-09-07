@@ -1,3 +1,3 @@
-const pages = ['about', 'carreer', 'lifestyle', 'blog', 'projects'] as const;
+const pages = ['about', 'carreer', 'blog', 'projects'] as const;
 
 export default pages;
