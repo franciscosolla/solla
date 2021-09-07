@@ -1,11 +1,23 @@
 import React from 'react';
+import Link from 'next/link';
+import ClassNameProp from '../types/props/ClassNameProp';
 
-import { WithClass } from '../types';
-
-interface HeaderProps extends WithClass {}
-
-const Header: React.VFC<HeaderProps> = ({ className }) => (
-  <header className={className}>
+const Header: React.VFC<ClassNameProp> = ({ className }) => (
+  <header>
+    <h1>
+      Solla
+    </h1>
+    <div className="list">
+      {['about', 'carreer', 'lifestyle', 'blog', 'projects'].map(name => 
+        <Link href={`/${name}`} key={`header-list-item-${name}`} passHref>
+          <button className="card">
+            <h1>
+              {name}
+            </h1>
+          </button>
+        </Link>
+      )}
+    </div>
   </header>
 )
 
