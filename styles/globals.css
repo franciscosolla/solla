@@ -7,70 +7,16 @@ body {
   background-color: teal;
 }
 
-h1 {
-  margin: 20px;
-  margin-bottom: 0;
-  font-size: large;
-  text-transform: capitalize;
-}
-
 button {
   border: none;
   cursor: pointer;
+  background: none;
 }
 
-.card {
-  background-color: whitesmoke;
-  border-radius: 10px;
-  padding: 30px 50px 10px 20px;
+button:active {
+  opacity: 0.5;
 }
 
-.list {
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  overflow: scroll;
-  padding: 20px;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-.list::-webkit-scrollbar {
-  display: none;
-}
-
-.list h1 {
-  margin: 0;
-}
-
-header {
-  display: flex;
-  flex-direction: column;
-}
-
-@media screen and (min-width: 600px) {
-  .card {
-    background-color: transparent;
-    border-radius: 0;
-    padding: 0;
-    color: whitesmoke;
-  }
-
-  .card h1 {
-    font-size: large;
-  }
-
-  .list {
-    gap: 30px;
-    margin-left: auto;
-  }
-
-  h1 {
-    font-size: x-large;
-  }
-
-  header {
-    flex-direction: row;
-    align-items: baseline;
-  }
+h1 {
+  margin: 0
 }
