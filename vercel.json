@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/url/:path*",
+      "destination": "https://url-francisco-igncio-fontoura-sollas-projects.vercel.app/:path*"
+    }
+  ]
+}
