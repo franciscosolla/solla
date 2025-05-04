@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# solla.dev — Personal Portfolio
 
-## Getting Started
+[![Vercel Deployment](https://vercelbadge.vercel.app/api/franciscosolla/solla)](https://solla.dev)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Radix UI Icons](https://img.shields.io/badge/Radix_UI_Icons-000000?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/franciscosolla/solla)
+![Repo Views](https://komarev.com/ghpvc/?username=franciscosolla&label=Portfolio+Views)
 
-First, run the development server:
+This is the codebase for [solla.dev](https://solla.dev), the personal portfolio of Francisco Solla — a Senior Software Engineer focused on building performant, user-centered applications and exploring the future of Web3.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/) – React framework for production-ready apps
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
+- [Radix UI Icons](https://icons.radix-ui.com/) – Clean and accessible SVG icon set
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📌 Features
 
-## Learn More
+- Mobile-first, accessible, and fast by design
+- CV download and social links
 
-To learn more about Next.js, take a look at the following resources:
+## 📫 Contact & Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🌐 Website: [solla.dev](https://solla.dev)
+- 📧 Email: [contact@solla.dev](mailto:contact@solla.dev)
+- 💼 LinkedIn: [linkedin.com/in/francisco-solla](https://www.linkedin.com/in/francisco-solla)
+- 💻 GitHub: [github.com/franciscosolla](https://github.com/franciscosolla)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> This project is a living portfolio — designed to grow as I explore new ideas and contribute to the future of the open web.
