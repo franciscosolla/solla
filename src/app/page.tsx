@@ -10,15 +10,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center p-2 gap-8 max-w-3xl m-auto">
       <header className="flex flex-col items-center">
-        <div className="rounded-full overflow-hidden w-fit aspect-square">
-          <Image
-            src="/profile.png"
-            alt="Profile"
-            width={200}
-            height={200}
-            className="-mt-7"
-          />
-        </div>
+        <Image src="/favicon.webp" alt="Profile" width={200} height={200} />
         <h1 className="text-3xl font-bold">Francisco Solla</h1>
         <h2 className="text-2xl">Senior Software Engineer</h2>
         <div className="flex flex-row gap-3 my-2">
