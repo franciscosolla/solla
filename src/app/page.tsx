@@ -21,7 +21,7 @@ export default function Home() {
         Resume <DownloadIcon />
       </button>
       <p>
-        I'm a Senior Software Engineer with 8+ years of experience building
+        I’m a Senior Software Engineer with 8+ years of experience building
         fast, accessible, and scalable applications across SaaS, marketplaces,
         and high-growth platforms. My core stack includes React, Next.js,
         TypeScript, and modern testing frameworks — and I’ve led projects
@@ -36,7 +36,7 @@ export default function Home() {
         shift isn’t just about staying ahead technically; it’s about
         contributing to a more open, resilient internet.
         <br />
-        I'm now focused on applying my software engineering expertise and
+        I’m now focused on applying my software engineering expertise and
         systems thinking to help build that future.
       </p>
     </div>
