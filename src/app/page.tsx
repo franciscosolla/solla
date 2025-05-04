@@ -32,9 +32,13 @@ export default function Home() {
             <EnvelopeClosedIcon width={20} height={20} />
           </a>
         </div>
-        <button className="flex flex-row gap-2 items-center bg-stone-950 text-stone-100 py-1 px-2 rounded-sm mt-4">
+        <a
+          href="/cv-resume-francisco-solla-software-engineer.pdf"
+          download
+          className="flex flex-row gap-2 items-center bg-stone-950 text-stone-100 py-1 px-2 rounded-sm mt-4"
+        >
           Resume <DownloadIcon width={18} height={18} />
-        </button>
+        </a>
       </header>
       <p className="flex flex-col gap-2">
         <span>
