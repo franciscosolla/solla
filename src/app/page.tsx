@@ -32,31 +32,59 @@ export default function Home() {
           Resume <DownloadIcon width={18} height={18} />
         </a>
       </header>
-      <p className="flex flex-col gap-2">
-        <span>
-          I’m a Senior Software Engineer with{" "}
-          <strong>8+ years of experience</strong> building fast, accessible, and
-          scalable applications across SaaS, marketplaces, and high-growth
-          platforms. My core stack includes{" "}
-          <strong>React, Next.js, React Native, Expo, TypeScript</strong>, and
-          modern testing frameworks — and I’ve led projects ranging from billing
-          systems to design system overhauls and Core Web Vitals optimization.
-        </span>
-        <span>
-          In recent years, I’ve grown increasingly drawn to{" "}
-          <strong>Web3</strong> — not just as a new technical domain, but as a
-          meaningful evolution in how we build digital systems. I see blockchain
-          as a foundation for trust, transparency, and user ownership —
-          technologies that can challenge legacy financial structures and unlock
-          new models of coordination. This shift isn’t just about staying ahead
-          technically; it’s about contributing to a more open, resilient
-          internet.
-        </span>
-        <span>
-          I’m now focused on applying my software engineering expertise and
-          systems thinking to help build that future.
-        </span>
-      </p>
+      <main className="flex flex-col gap-8 text-justify">
+        <section>
+          <p className="flex flex-col gap-2">
+            <span>
+              With <strong>8+ years of experience</strong> building
+              high-performance, scalable web and mobile applications across
+              SaaS, B2B marketplaces, and consumer platforms. Skilled in{" "}
+              <strong>React, React Native, Next.js, TypeScript</strong>, and
+              other modern tools, with a proven track record of leading product
+              feature development, improving Core Web Vitals, and contributing
+              to large-scale design system initiatives.
+            </span>
+            <span>
+              With international experience across Brazil, France, and
+              remote-first teams. Comfortable thriving in asynchronous,
+              ownership-driven environments.
+            </span>
+            <span>
+              Now focused on applying this experience to <strong>Web3</strong>.
+              Motivated to help decentralized technologies reach more people by
+              building accessible, trustworthy, and high-quality user
+              experiences.
+            </span>
+          </p>
+        </section>
+        <section className="flex flex-col gap-3">
+          <h3 className="text-xl font-bold">Engineering Mindset</h3>
+          <p className="flex flex-col gap-2">
+            <span>
+              I lead features from concept to delivery and{" "}
+              <strong>
+                document decisions so future contributors understand the “why”
+              </strong>
+              .
+            </span>
+            <span>
+              I advocate for thoughtful, well-tested design systems that{" "}
+              <strong>enable fast, confident development</strong>.
+            </span>
+            <span>
+              We should document architectural directives to reduce the amount
+              of decisions we have to make while coding.{" "}
+              <strong>Remove the noise as much as possible</strong>.
+            </span>
+            <span>
+              I’m convinced that{" "}
+              <strong>great software is built on great communication</strong>.
+              We need lively, proactive and honest communication — to surface
+              risks early, identify knowledge gaps, and avoid misalignment.
+            </span>
+          </p>
+        </section>
+      </main>
     </div>
   );
 }
