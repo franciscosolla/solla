@@ -45,8 +45,8 @@ export default function Home() {
               to large-scale design system initiatives.
             </span>
             <span>
-              With international experience across Brazil, France, and
-              remote-first teams. Comfortable thriving in asynchronous,
+              With international experience across Brazil, Canada, France, USA
+              and remote-first teams. Comfortable thriving in asynchronous,
               ownership-driven environments.
             </span>
             <span>
