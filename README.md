@@ -1,4 +1,4 @@
-# solla.dev — Personal Portfolio
+# solla.dev - Personal Portfolio
 
 [![Vercel Deployment](https://vercelbadge.vercel.app/api/franciscosolla/solla)](https://solla.dev)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
@@ -7,7 +7,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/franciscosolla/solla)
 ![Repo Views](https://komarev.com/ghpvc/?username=franciscosolla&label=Portfolio+Views)
 
-This is the codebase for [solla.dev](https://solla.dev), the personal portfolio of Francisco Solla — a Senior Software Engineer focused on building performant, user-centered applications and exploring the future of Web3.
+This is the codebase for [solla.dev](https://solla.dev), the personal portfolio of Francisco Solla. A Senior Software Engineer focused on building performant, user-centered applications and exploring the future of Web3.
 
 ---
 
@@ -31,4 +31,4 @@ This is the codebase for [solla.dev](https://solla.dev), the personal portfolio 
 
 ---
 
-> This project is a living portfolio — designed to grow as I explore new ideas and contribute to the future of the open web.
+> This project is a living portfolio designed to grow as I explore new ideas and contribute to the future of the open web.

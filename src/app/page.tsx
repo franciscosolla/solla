@@ -79,7 +79,7 @@ export default function Home() {
             <span>
               I’m convinced that{" "}
               <strong>great software is built on great communication</strong>.
-              We need lively, proactive and honest communication — to surface
+              We need lively, proactive and honest communication, to surface
               risks early, identify knowledge gaps, and avoid misalignment.
             </span>
           </p>

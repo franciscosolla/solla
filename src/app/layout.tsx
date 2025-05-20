@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Francisco Solla – Software Engineer & Web3 Explorer",
     description:
-      "Building fast, accessible, and scalable software — now exploring decentralized apps and crypto-native tools.",
+      "Building fast, accessible, and scalable software. Now exploring decentralized apps and crypto-native tools.",
     url: "https://solla.dev",
     siteName: "solla.dev",
     images: [
