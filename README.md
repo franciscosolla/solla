@@ -31,4 +31,4 @@ This is the codebase for [solla.dev](https://solla.dev), the personal portfolio 
 
 ---
 
-> This project is a living portfolio designed to grow as I explore new ideas and contribute to the future of the open web.
+> This project is a living portfolio designed to grow as I explore new ideas and contribute to the future of the open web
