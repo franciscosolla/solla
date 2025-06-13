@@ -7,10 +7,10 @@
   "homepage": "https://solla.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/franciscosolla/solla"
+    "url": "https://github.com/fsolla/solla"
   },
   "bugs": {
-    "url": "https://github.com/franciscosolla/solla/issues"
+    "url": "https://github.com/fsolla/solla/issues"
   },
   "keywords": [
     "nextjs",

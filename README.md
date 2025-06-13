@@ -27,7 +27,7 @@ This is the codebase for [solla.dev](https://solla.dev), the personal portfolio 
 - 🌐 Website: [solla.dev](https://solla.dev)
 - 📧 Email: [contact@solla.dev](mailto:contact@solla.dev)
 - 💼 LinkedIn: [linkedin.com/in/francisco-solla](https://www.linkedin.com/in/francisco-solla)
-- 💻 GitHub: [github.com/franciscosolla](https://github.com/franciscosolla)
+- 💻 GitHub: [github.com/fsolla](https://github.com/fsolla)
 
 ---
 

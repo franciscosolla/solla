@@ -17,7 +17,7 @@ export default function Home() {
           <a href="https://linkedin.com/in/francisco-solla" target="_blank">
             <LinkedInLogoIcon width={20} height={20} />
           </a>
-          <a href="https://github.com/franciscosolla" target="_blank">
+          <a href="https://github.com/fsolla" target="_blank">
             <GitHubLogoIcon width={20} height={20} />
           </a>
           <a href="mailto:contact@solla.dev" target="_blank">
